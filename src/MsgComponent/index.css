@@ -1,0 +1,49 @@
+.chat-container{
+    display: flex;
+    margin-bottom: 24px;
+}
+
+.chatProfile{
+    color:white;
+    background-color: lightgreen;
+    border-style: solid;
+    border-radius: 120px;
+    border-width: 0px;
+    padding: 10px;
+    font-size:15px;
+    margin:20px;
+}
+
+.chatPName{
+    color:#43392a;
+    font-size:20px;
+    margin-bottom: 6px;
+
+}
+
+.chatBox{
+    background-color:#ffffff;
+    padding: 10px;
+    border-radius: 16px;
+    border-top-left-radius: 0px;
+    
+}
+
+.chatPTime{
+    display: flex;
+}
+
+.time-Change{
+    font-size:14px;
+    margin-left: 10px;
+}
+.button-edit{
+    margin:40px;
+    margin-left:5px;
+    background-color: aqua;
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 10px;
+    padding: 10px;
+
+}
